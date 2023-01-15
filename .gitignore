@@ -1,0 +1,3 @@
+# ignore ALL .log files
+*.log
+/P3p4_NiobeClaveria/nbproject/private/
